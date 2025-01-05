@@ -17,5 +17,5 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+# Solução
+O código foi corrigido para funcionar conforme as regras de negócio expostas. 
